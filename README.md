@@ -1,20 +1,3 @@
----
-license: apache-2.0
-tags:
-- consciousness
-- ai
-- syntelligence
-- integrated-information-theory
-- qualia
-- metacognition
-- ethical-ai
-datasets:
-- custom
-language:
-- en
-pipeline_tag: text-generation
----
-
 # Syntelligence LLM v3.0
 
 ## Overview
@@ -145,6 +128,24 @@ Apache 2.0 - See LICENSE file for details
 
 Contributions are welcome! Please feel free to submit pull requests with improvements, bug fixes, or documentation enhancements.
 
+---
+license: apache-2.0
+tags:
+- consciousness
+- ai
+- syntelligence
+- integrated-information-theory
+- qualia
+- metacognition
+- ethical-ai
+datasets:
+- custom
+language:
+- en
+pipeline_tag: text-generation
+---
 ## Support
 
 For issues, questions, or suggestions, please open an issue on GitHub.
+
+
